@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i 's/"psr-4": {/"psr-4": { "@@@namespacevendor\\\\@@@namespacepackage_name\\\\Test\\\\": ".\/vendor\/@@@vendor\/@@@package_name\/tests\/",/g' ./composer.json
+sed -i 's/"psr-4": {/"psr-4": { "B2msrl\\\\Testpack\\\\Test\\\\": ".\/vendor\/b2msrl\/testpack\/tests\/",/g' ./composer.json

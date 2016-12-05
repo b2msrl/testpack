@@ -1,14 +1,14 @@
 {
-    "name": "@@@vendor/@@@package_name",
-    "description": "@@@package_description",
-    "keywords": [@@@keywords],
+    "name": "b2msrl/testpack",
+    "description": "descr",
+    "keywords": ["test"," pack"],
     "license": "MIT",
     "type": "library",
 	"authors": [
         {
-            "name": "@@@author",
-            "email": "@@@emailauthor",
-            "homepage" : "@@@siteauthor",
+            "name": "B2M",
+            "email": "alessandro@b2m.it",
+            "homepage" : "https://www.padosoft.com",
             "role" : "Developer"
         }
     ],
